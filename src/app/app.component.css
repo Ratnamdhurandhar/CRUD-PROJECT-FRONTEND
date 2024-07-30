@@ -1,0 +1,12 @@
+.footer {
+   
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .custom-bg-color {
+    background-color: #EF5A6F; /* Replace with your desired color */
+}
